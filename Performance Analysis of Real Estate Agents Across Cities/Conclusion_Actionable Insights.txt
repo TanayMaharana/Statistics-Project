@@ -1,0 +1,33 @@
+Bangalore
+
+- Bangalore has a relatively lower total sales compared to Delhi.
+- The number of sales in Bangalore is also lower, indicating a lower transaction volume.
+- However, the average price per apartment in Bangalore is higher than Delhi and Mumbai, suggesting higher property values in the area.
+- The average area indicates larger-sized apartments compared to Delhi and Mumbai.
+- The average price per sq m indicates a higher pricing range for properties in the location.
+
+Actionable insights: on the basis of our current analysis, we can suggest one possible insight for improving apartment sales performance in Bangalore: To focus on marketing the benefits of larger and more valuable properties in the area. Compared to Delhi and Mumbai, (once confirmed by the sales team, you can note that) Bangalore offers more spacious and premium apartments that can appeal to buyers who are looking for comfort and quality. A targeted campaign that showcases the features and amenities of the apartments, as well as the advantages of living in Bangalore, could help increase the demand and transaction volume in the location.
+
+
+Delhi
+
+- Delhi has the highest total sales among the three locations, indicating strong sales performance.
+- The number of sales in Delhi is also higher, reflecting a higher transaction volume.
+- The average price per apartment is relatively lower than Bangalore but higher than Mumbai.
+- The average area indicates a moderate apartment size.
+- The average price per sq m in Delhi suggests a reasonable pricing range for properties in the location.
+ 
+Actionable insights: The sales team seems to be in a good position for Delhi-based apartments. We have the highest sales and number of apartments sold compared to the other locations. To enhance the sales even more, perhaps the team can try to sell more spacious apartments as currently the average area indicates a moderate apartment size.
+
+
+Mumbai
+
+- Mumbai has a lower total sales figure compared to Delhi and Bangalore.
+- The number of sales in Mumbai is relatively moderate, indicating a fairly decent transaction volume.
+- The average price per apartment seems lower than both Delhi and Bangalore.
+- The average area suggests a moderately smaller apartment size.
+- The average price per sq m indicates a lower pricing range for properties in the location.
+- We would recommend further analysis as the spread of the middle range of apartments is more diverse in Mumbai as compared to the other cities.
+
+Actionable insights: More analysis by the sales team, especially in the middle range of apartments, is definitely worth looking into by the sales team. This spread may indicate that it is not a true representation of prices. 
+	One possible insight for improving the sales performance of Mumbai apartments is to focus on increasing the transaction volume by targeting buyers who are looking for affordable and moderately sized properties in the city. This could be done by offering attractive financing options, discounts, or incentives to potential customers, as well as by marketing the benefits of living in Mumbai, such as its cultural diversity, economic opportunities, and connectivity. 

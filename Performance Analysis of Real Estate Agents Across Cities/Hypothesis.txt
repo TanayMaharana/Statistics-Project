@@ -1,0 +1,46 @@
+## Based on our Location Wise Analysis pivot table, we can form the following hypotheses:
+
+# In Delhi:
+	- The high total sales can be attributed to a combination of a relatively high average price of apartments and a large number of sold apartments.
+	- The mean price is practically the same as the median. This suggests that there is not a significant difference in prices of apartments in Delhi, indicating low dispersion in the data.
+
+# In Bangalore:
+	- Despite lower total sales than Delhi, the apartments seem to be expensive (i.e. see the high average apartment price and low number of sold apartments), suggesting a unique market dynamic.
+	- The mean and median prices are substantially different, indicating a higher level of dispersion. This suggests that the apartments in Bangalore vary substantially in terms of price, and caution should be exercised when analysing the data.
+
+# In Mumbai:
+	- There are low sales probably due to the low average price of apartments.
+	- Similarly, here also the mean and median prices are different, indicating higher dispersion. Once again, this suggests that the apartments vary significantly in terms of price.
+
+
+## Based on our Location Wise Analysis pivot table, we can form the following hypotheses: 
+
+# In Delhi:
+	- Agent with Agent_Id - 0, sold the most number of apartments.
+	- Agent with Agent_Id - 0, has the highest total sales.
+	- For Agent_id - 0, the average Price_per_sq_m of sold apartments is 0.96 Lakhs.
+
+# In Bangalore:
+	- Agent with Agent_Id - 16, sold the most number of apartments.
+	- Agent with Agent_Id - 17, has the highest total sales.
+	- For Agent_id - 17, the average Price_per_sq_m of sold apartments is 2.05 Lakhs. 
+
+# In Mumbai:
+	- Agent with Agent_Id - 9 and Agent_id - 12, sold the most number of apartments.
+	- Agent with Agent_Id - 12, has the highest total sales.
+	- For Agent_id - 12, the average Price_per_sq_m of sold apartments is 1.00 Lakhs.
+
+
+## Based on the area of the apartments, we can conclude:
+
+# In Delhi:
+	- The average area is 89.95 sq m, indicating a moderate apartment size.
+	- The average price per sq m is 0.95 lakhs, suggesting a reasonable pricing range for properties in the location.
+
+# In Bangalore:
+	- The average area is 131.27 sq m, indicating larger-sized apartments compared to Delhi and Mumbai.
+	- The average price_m_lcs in Bangalore is 1.24 lakhs, suggesting a higher pricing range for properties in the location.
+
+# In Mumbai:
+	- The average area is 74.48 sq m, suggesting a decent apartment size but on the lower end as compared to Delhi.
+	- The average price_m_lcs in Mumbai is 0.88 lakhs, indicating a lower pricing range for properties in the location.
