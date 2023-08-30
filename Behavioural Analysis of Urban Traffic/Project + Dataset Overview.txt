@@ -1,1 +1,36 @@
+## Overview of the Project -
 
+Urban traffic data is being analyzed by the government entity responsible for the development of road infrastructure in the country. The primary objective of enhancing connectivity and reducing existing traffic is being pursued. Focus has been shifted towards the analysis of urban traffic data to facilitate optimal planning for corrections and the establishment of new road infrastructure within cities.
+
+
+## Objective: To explore the urban traffic data and provide relevant insights. By transforming these insights into practical strategies, the government can make significant strides in correction as well as creation of the urban road network.
+
+
+## Problem statement: To reiterate, the govt. organization aims to optimize the process of correction and creation of road networks in urban cities to reduce the nuisance and load of traffic on the roads. To accomplish this goal, you need to understand patterns, peak hours, and extremes present in the data.
+
+
+## Dataset Used - 
+
+1. Hour  - Hours in 24 Hr format
+2. Immobilized bus - If there is an immobilized bus or not
+3. Broken Truck - If there is a broken truck or not
+4. Vehicle excess - If there is a vehicle excess or not
+5. Accident victim - If there is an accident victim or not
+6. Running over - If there is a running over incident or not
+7. Fire Vehicles - If there is a fire vehicle or not
+8 .Occurrence involving freight - If there is a goods involved or not
+9 .Incident involving dangerous freight  - If there is a dangerous goods involved or not for instance, fuel etc.
+10. Lack of electricity - If there is a lack of electricity or not
+11. Fire - If there is fire incident involved or not
+12. Point of flooding - If there is flooding involved or not
+13. Manifestations - If manifestations involving declarations of goods are involved or not.
+14. Defect in the network of trolleybuses - If the trolleybuses (public transport ) are working or not
+15. Tree on the road - If there is a tree on the road or not 
+16. Semaphore off - If road signs are out of order or not
+17. Intermittent Semaphore - If the road studs are off or not
+18. Slowness in traffic - This defines the Congestion Rate (%) within the traffic
+
+ 
+The 0 value in given variables defines ‘not happening’ of that incident except Hour and Slowness in traffic. Different encodings in variables means different reasons for ‘
+
+‘happening’ of that event.
